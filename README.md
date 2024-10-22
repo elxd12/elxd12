@@ -1,7 +1,6 @@
 ```mermaid
 graph TD;
     A[Tabla Periódica] --> B[Grupos]
-    B --> C[Metales]
     C --> D[Metales Alcalinos (Grupo 1)]
     C --> E[Metales Alcalinotérreos (Grupo 2)]
     C --> F[Metales de Transición (Grupos 3-12)]
